@@ -1,3 +1,6 @@
+package test
 public class test{
-//nothing
+	public test(){
+		//nothing to do
+	}
 }
