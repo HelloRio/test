@@ -1,4 +1,7 @@
 package test
+
+/*add some note*/
+
 public class test{
 	public test(){
 		//nothing to do
